@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Artis 01</string>
+    <string name="align_your_body">My Music</string>
+    <string name="favorite_collections">Favourite collection</string>
+    <string name="ab2_inversions">Artis 02</string>
+    <string name="ab3_inversions">Artis 03</string>
+    <string name="align_your_body1">Newest Albums</string>
+    <string name="align_your_body2">Resently Played</string>
+    <string name="ab1m_inversions">Artis Name</string>
+    <string name="ab1m3_inversions">Playlist 01</string>
+    <string name="ab2m3_inversions">Playlist 02</string>
+    <string name="align_your_body_H3">Popular Playlists</string>
+</resources>
