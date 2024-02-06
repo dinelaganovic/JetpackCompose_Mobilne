@@ -12,4 +12,6 @@
     <string name="ab1m3_inversions">Playlist 01</string>
     <string name="ab2m3_inversions">Playlist 02</string>
     <string name="align_your_body_H3">Popular Playlists</string>
+    <string name="title_activity_view2">View2Activity</string>
+    <string name="title_activity_view3">View3Activity</string>
 </resources>
